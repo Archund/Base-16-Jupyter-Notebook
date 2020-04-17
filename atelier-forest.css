@@ -1,0 +1,21 @@
+/* CSS Color Variables */
+/* Atelier Forest author: "Bram de Haan (http://atelierbramdehaan.nl)" */
+:root {
+    --color0: #1b1918;
+    --color1: #2c2421;
+    --color2: #68615e;
+    --color3: #766e6b;
+    --color4: #9c9491;
+    --color5: #a8a19f;
+    --color6: #e6e2e0;
+    --color7: #f1efee;
+    --color8: #f22c40;
+    --color9: #df5320;
+    --colorA: #c38418;
+    --colorB: #7b9726;
+    --colorC: #3d97b8;
+    --colorD: #407ee7;
+    --colorE: #6666ea;
+    --colorF: #c33ff3;
+}
+

@@ -1,0 +1,21 @@
+/* CSS Color Variables */
+/* Monokai author: "Wimer Hazenberg (http://www.monokai.nl)" */
+
+:root {
+    --color0: #272822;
+    --color1: #383830;
+    --color2: #49483e;
+    --color3: #75715e;
+    --color4: #a59f85;
+    --color5: #f8f8f2;
+    --color6: #f5f4f1;
+    --color7: #f9f8f5;
+    --color8: #f92672;
+    --color9: #fd971f;
+    --colorA: #f4bf75;
+    --colorB: #a6e22e;
+    --colorC: #a1efe4;
+    --colorD: #66d9ef;
+    --colorE: #ae81ff;
+    --colorF: #cc6633;
+}

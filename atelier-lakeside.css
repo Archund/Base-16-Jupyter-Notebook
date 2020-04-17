@@ -1,0 +1,22 @@
+/* CSS Color Variables */
+/* Atelier Lakeside author: "Bram de Haan (http://atelierbramdehaan.nl)" */
+
+:root {
+    --color0: #161b1d;
+    --color1: #1f292e;
+    --color2: #516d7b;
+    --color3: #5a7b8c;
+    --color4: #7195a8;
+    --color5: #7ea2b4;
+    --color6: #c1e4f6;
+    --color7: #ebf8ff;
+    --color8: #d22d72;
+    --color9: #935c25;
+    --colorA: #8a8a0f;
+    --colorB: #568c3b;
+    --colorC: #2d8f6f;
+    --colorD: #257fad;
+    --colorE: #6b6bb8;
+    --colorF: #b72dd2;
+}
+
