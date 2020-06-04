@@ -184,6 +184,8 @@ table.dataframe tr {
     border-width: 1px;
 }  
 
+
+
 /* CodeMirror Elements */
 .cm-s-ipython .CodeMirror-gutters {
     border-right: 0px;
@@ -261,6 +263,12 @@ ul#selector-menu                            { background: var(--color1); }
 .list_header                                { background: var(--color3); border-color: var(--color3); }
 .list_item:hover                            { background: var(--color2); }
 
+/* Table Cells */
+.rendered_html tbody tr:hover                { background: var(--color2); }
+/* Alternate Cells */
+.rendered_html tbody tr:nth-child(2n+1)     { background: var(--color1); }
+.rendered_html tbody
+tr:nth-child(2n+1):hover                    { background: var(--color2); }
 
 /* Panel Colors */
 .panel                                      { background: var(--color1); border-color: var(--color3); }
